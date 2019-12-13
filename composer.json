@@ -1,6 +1,7 @@
 {
-    "name": "blindsidenetworks/moodle-mod_bigbluebuttonbn",
+    "name": "calderholding/bigbluebutton",
     "type": "moodle-mod",
+    "version": "2.3.1",
     "require": {
         "firebase/php-jwt": "^4.0"
     },
@@ -16,3 +17,6 @@
         "phpdocumentor/phpdocumentor": "2.*"
     }
 }
+
+
+
